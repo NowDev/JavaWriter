@@ -1,0 +1,6 @@
+[ =========================================== ]
+[                 + L O G +                   ]
+[          that's a example of log            ]
+[    how you can see, haven't nothing here!   ]
+[            J A V A  W R I T E R             ]
+[ =========================================== ]
